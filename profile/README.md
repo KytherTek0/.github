@@ -24,3 +24,4 @@ KytherTek is an Artificial Intelligence of Things startup aimed towards solving 
 ### ezGeyser
 
 **ezGeyser** is a smart digital thermostat for home geysers that enables savings and convenience through full automation. By crafting EzGeyser, we've developed a transformative device empowering any water geyser with intelligent capabilities, revolutionizing conventional usage.
+Check it out at [EZGEYSER](https://ezgeyser.com/)
